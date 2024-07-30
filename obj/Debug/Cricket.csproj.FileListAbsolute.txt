@@ -1,0 +1,14 @@
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\bin\Debug\Cricket.exe.config
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\bin\Debug\Cricket.exe
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\bin\Debug\Cricket.pdb
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\obj\Debug\Cricket.csprojAssemblyReference.cache
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\obj\Debug\Cricket.Form1.resources
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\obj\Debug\Cricket.Properties.Resources.resources
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\obj\Debug\Cricket.csproj.GenerateResource.cache
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\obj\Debug\Cricket.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\obj\Debug\Cricket.exe
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\obj\Debug\Cricket.pdb
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\bin\Debug\Database1.mdf
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\bin\Debug\Database1_log.ldf
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\obj\Debug\Cricket.Form2.resources
+C:\Users\Ajay Barhate\source\repos\Cricket\Cricket\obj\Debug\Cricket.SingIn.resources
